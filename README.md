@@ -3,11 +3,19 @@ CasperJS tests
 
 Testing ground for experimenting with CasperJS for integration testing m.guardian.co.uk
 
-## To install:
+## Installation
+
+#### Intall CasperJS if you don't already have it
+```http://casperjs.org/installation.html```
+
+#### Install dependencies:
 ```npm install```
 
-##To run whole suite:
+
+## Running tests
+
+#### To run whole suite:
 ```grunt test```
 
-##To run individual suite:
+#### To run individual suite:
 ```casperjs test tests/network-front.spec.js```
