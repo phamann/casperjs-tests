@@ -1,0 +1,19 @@
+{
+  "name": "casperjs-tests",
+  "version": "0.0.1",
+  "description": "Testing ground for casperjs integration tests.",
+  "author": {
+    "name": "Patrick Hamann",
+    "url": "http://www.patrickhamann.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phamann/casperjs-tests.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-casper" : "~0.1.1",
+    "grunt-contrib-watch" : "~0.4.0"
+  }
+}
